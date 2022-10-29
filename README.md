@@ -1,2 +1,2 @@
-# Calculadora-basica
+# Calculadora de IMC
  
